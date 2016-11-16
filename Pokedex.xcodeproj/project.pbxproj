@@ -12,6 +12,7 @@
 		AE11B7FE1DDC160500458AE1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE11B7FC1DDC160500458AE1 /* Main.storyboard */; };
 		AE11B8001DDC160500458AE1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE11B7FF1DDC160500458AE1 /* Assets.xcassets */; };
 		AE11B8031DDC160500458AE1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE11B8011DDC160500458AE1 /* LaunchScreen.storyboard */; };
+		AE1B4FE41DDC187E0002114B /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = AE1B4FE31DDC187E0002114B /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		AE11B7FF1DDC160500458AE1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AE11B8021DDC160500458AE1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AE11B8041DDC160500458AE1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AE1B4FE31DDC187E0002114B /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				AE11B7FA1DDC160500458AE1 /* ViewController.swift */,
 				AE11B7FC1DDC160500458AE1 /* Main.storyboard */,
 				AE11B7FF1DDC160500458AE1 /* Assets.xcassets */,
+				AE1B4FE31DDC187E0002114B /* pokemon.csv */,
 				AE11B8011DDC160500458AE1 /* LaunchScreen.storyboard */,
 				AE11B8041DDC160500458AE1 /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				AE11B8031DDC160500458AE1 /* LaunchScreen.storyboard in Resources */,
 				AE11B8001DDC160500458AE1 /* Assets.xcassets in Resources */,
+				AE1B4FE41DDC187E0002114B /* pokemon.csv in Resources */,
 				AE11B7FE1DDC160500458AE1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -302,6 +306,7 @@
 				AE11B8091DDC160500458AE1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
